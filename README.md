@@ -13,7 +13,16 @@
 - 🤔 I’m currently coding in Javascript and Vue.
 - ❤️ I like playing game 🌩 and coding.
 - 💬 Be free to ask me about anything [here](https://github.com/alanHzw/alanHzw/issues).
-<img align="right" height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alanHzw&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanHzw&hide_border=true">
-</div>
+
+
+![](https://activity-graph.herokuapp.com/graph?username=alanhzw&theme=github)
+
+##  💕 Thank you for the visit.
+
+![](http://profile-counter.glitch.me/alanhzw/count.svg)
+
+Please give a Star if you like ⭐.
+
+<img align="center"  height="280" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
