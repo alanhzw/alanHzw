@@ -25,4 +25,3 @@
 
 Please give a Star if you like ⭐.
 
-<img align="center"  height="100" src="https://pic2.zhimg.com/v2-28020003d4a493c78d8202ba6c35f179_b.webp">
