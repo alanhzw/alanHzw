@@ -12,14 +12,18 @@
 - 🌱 I’m a pupil of front-end learning.
 - 🤔 I’m currently coding in Javascript and Vue.
 - ❤️ I like playing game 🌩 and coding.
-- 💬 Be free to ask me about anything [here](https://github.com/alanHzw/alanHzw/issues).
+- 💬 Be free to ask me about anything [here](https://github.com/alanHzw/alanHzw/issues).  
+  
+  
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=alanHzw&show_icons=true&hide_border=true">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanHzw&hide_border=true">   
 
-
+  
+  
 ![](https://activity-graph.herokuapp.com/graph?username=alanhzw&theme=github)
 
-<br>
+<br>  
+
 
 
 ##  💕 Thank you for the visit.
